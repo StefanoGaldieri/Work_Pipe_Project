@@ -36,9 +36,11 @@ public class Utente {
 		this.email = email;
 		this.dataNascita = dataNascita;
 	
-		
-		// Metodi getter & setter
 	}
+	
+	
+	// Metodi getter & setter
+	
 	/**
 	 * @return the id
 	 */
